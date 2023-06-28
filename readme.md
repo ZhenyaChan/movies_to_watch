@@ -12,4 +12,3 @@ Then it extracts movies names and rank using <strong>bs4 library</strong> and wr
 3. Download the project .zip file OR Enter to the terminal:
    `git clone https://github.com/ZhenyaChan/movies_to_watch.git`
 4. Run the code by entering in the terminal `python3 "./main.py`
-```sh
